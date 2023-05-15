@@ -1,0 +1,17 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "A quiz app that ask questions and have a timeer once it endeds you will be notified on how many questions you asked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "quiz": "node index.js"
+  },
+  "author": "Danescode",
+  "license": "ISC",
+  "express": "^4.18.2",
+  "keywords": [],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
